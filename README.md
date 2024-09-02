@@ -42,4 +42,8 @@ This open source solution is built using Crossplatform Mobile framework (JQuery 
 7. GIT
 8. Eclipse Editor
 
+More details
+
+[Uploading RTA_ReadMe.pptx…]()
+
    
