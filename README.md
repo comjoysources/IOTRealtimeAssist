@@ -1,6 +1,9 @@
 # IoT Realtime Assist
 An IoT and Mobile app to help insurance company to monitor traffic incidents and claims
 
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/89b0f381-434e-4596-ac81-e0809fe14ead">
+
+
 **Business Case**
 Insurance companies are expecting a quality claim process for their consumers with fast and reliable method. 
 In many cases insurance customers are making a false claims which is creating big loss for Insurance companies.
@@ -29,7 +32,7 @@ This open source solution is built using Crossplatform Mobile framework (JQuery 
 6. Test it in Android emulator /real device
 7. Test it in iOS emulator / real device
    
-** Pre-Requisites to Build, Run ***
+** Pre-Requisites to Build & Run ***
 1. Best using MacOS
 2. Android Sutdio
 3. Xcode
